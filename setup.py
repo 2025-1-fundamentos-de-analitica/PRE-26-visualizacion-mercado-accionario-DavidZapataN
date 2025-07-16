@@ -12,6 +12,6 @@ setup(
         "pandas",
         "numpy",
         "pytest",
-        "scikit-learn",
+        "scikit-learn==1.6.1",
     ],
 )
